@@ -1,14 +1,14 @@
 {
-  "name": "laravel-mix-criticalcss",
-  "version": "1.0.2",
-  "description": "A Laravel Mix extension for Critical CSS.",
+  "name": "laravel-mix-criticalcss-patch",
+  "version": "1.0.3",
+  "description": "A Laravel Mix extension for Critical CSS. please go to original repo for consistency. It is created because of a npm bug",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dadamotion/laravel-mix-criticalcss.git"
+    "url": "git+https://github.com/htuzel/laravel-mix-criticalcss.git"
   },
   "keywords": [
     "laravel",
